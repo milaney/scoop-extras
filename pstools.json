@@ -3,6 +3,7 @@
 	"license": "http://technet.microsoft.com/sysinternals/bb469936",
 	"version": "2.44",
 	"url": "http://download.sysinternals.com/files/PSTools.zip",
+	"hash": "4ee22791b452bcb4047f51ad954cf22ca25053d081486723dd6ab7c76e4eda1f",
 	"bin": [
 		"PsExec.exe",
 		"psfile.exe",
